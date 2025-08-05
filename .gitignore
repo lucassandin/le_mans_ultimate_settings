@@ -1,0 +1,50 @@
+# .gitignore para UserData do Le Mans Ultimate
+
+# Ignorar arquivos de configuração e cache específicos do usuário
+*.ini
+*.cfg
+*.gal
+*.svm
+*.tmp
+*.bak
+*.log
+*.csv
+*.txt
+
+# Ignorar saves, logs, replays, screenshots e backups
+player/Settings/
+player/CustomPluginVariables.JSON
+player/Multiplayer.JSON
+player/tempGarage.svm
+player/TempModFile.svm
+player/FavoriteAndFixedSetups.gal
+player/current controls.json
+player/direct input.json
+player/Settings.JSON
+player/Settings/
+Log/
+Replays/
+Saves/
+ScreenShots/
+
+# Presets e perfis de controle
+Controller/Presets/
+
+# Arquivos de shader e cache
+Shaders/
+
+# Backups
+Saves/Backup Saves/
+
+# Outros arquivos temporários
+*.bak
+*.tmp
+
+# Excluir arquivos sensíveis ou grandes
+*.vcr
+*.mhr
+
+# Permitir versionar arquivos de configuração base, se necessário
+!../Config_DX11.ini
+!../EffectDef.json
+!../EffectPresets.txt

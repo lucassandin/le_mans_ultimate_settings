@@ -1,0 +1,110 @@
+{
+  "Device": {
+    "Force Feedback": {
+      "Enabled": true,
+      "Invert Force Feedback": false,
+      "Jolt magnitude": 1.5,
+      "Steering bump stop degrees": 40.0,
+      "Steering effects strength": 10000.0,
+      "Steering torque minimum": 0.0,
+      "Steering torque sensitivity": 1.0,
+      "constant steering force": false
+    },
+    "input axis properties": {
+      "Left Thumb X+": {
+        "center": 0.5,
+        "max": 1.0,
+        "min": 0.6197699904441833
+      },
+      "Left Thumb X-": {
+        "center": 0.5,
+        "max": 0.0,
+        "min": 0.38023000955581665
+      },
+      "Left Thumb Y+": {
+        "center": 0.5,
+        "max": 1.0,
+        "min": 0.6197699904441833
+      },
+      "Left Thumb Y-": {
+        "center": 0.5,
+        "max": 0.0,
+        "min": 0.38023000955581665
+      },
+      "Left Trigger": {
+        "center": 0.0,
+        "max": 1.0,
+        "min": 0.11764699965715408
+      },
+      "Right Thumb X+": {
+        "center": 0.5,
+        "max": 1.0,
+        "min": 0.6325880289077759
+      },
+      "Right Thumb X-": {
+        "center": 0.5,
+        "max": 0.0,
+        "min": 0.3674120008945465
+      },
+      "Right Thumb Y+": {
+        "center": 0.5,
+        "max": 1.0,
+        "min": 0.6325880289077759
+      },
+      "Right Thumb Y-": {
+        "center": 0.5,
+        "max": 0.0,
+        "min": 0.3674120008945465
+      },
+      "Right Trigger": {
+        "center": 0.0,
+        "max": 1.0,
+        "min": 0.11764699965715408
+      }
+    },
+    "options": {
+      "Brake Bias Axis": false,
+      "Brake Sensitivity": 0.5,
+      "Clutch Sensitivity": 1.0,
+      "Gear Select Button Hold": true,
+      "Hardware 3Digit Display": 1,
+      "Keyboard Brake": 0.5,
+      "Keyboard Clutch": 0.20000000298023224,
+      "Keyboard Throttle": 0.5,
+      "Never Release Device": false,
+      "Sensitivity Type": 1,
+      "Steering Aggression": 0.5,
+      "Steering Rate Factor": 0.15000000596046448,
+      "Steering Return Rate Multiplier": 1.25,
+      "Steering Sensitivity": 0.699999988079071,
+      "Steering Snap Factor": 0.6000000238418579,
+      "Steering Speed Sensitivity": 0.800000011920929,
+      "Steering Wheel Maximum Rotation": 400.0,
+      "Steering Wheel Maximum Rotation From Driver": false,
+      "Throttle Sensitivity": 0.5,
+      "use leds": false
+    }
+  },
+  "Input": {
+    "Alternate Esc": 14,
+    "Brake": 0,
+    "Driver Overlay Next MFD": 21,
+    "Driver Overlay Previous MFD": 22,
+    "Driving Cameras": 23,
+    "Look Left": 7,
+    "Look Right": 6,
+    "Pit Menu Dec": 13,
+    "Pit Menu Down": 11,
+    "Pit Menu Inc": 12,
+    "Pit Menu Up": 10,
+    "Push To change camera view": 15,
+    "Rear Look": 9,
+    "Shift Down": 18,
+    "Shift Up": 19,
+    "Starter": 17,
+    "Steer Left": 3,
+    "Steer Right": 2,
+    "Throttle": 1
+  },
+  "Type": "Gamepad"
+}

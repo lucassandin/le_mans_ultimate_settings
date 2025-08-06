@@ -1,7 +1,6 @@
 # .gitignore para UserData do Le Mans Ultimate
 
 # Ignorar arquivos de configuração e cache específicos do usuário
-*.ini
 *.cfg
 *.gal
 *.svm

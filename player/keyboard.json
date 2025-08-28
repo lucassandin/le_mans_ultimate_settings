@@ -24,6 +24,10 @@
     }
   },
   "Input": {
+    "Adjust Seat Aft": 35,
+    "Adjust Seat Down": 36,
+    "Adjust Seat Fore": 37,
+    "Adjust Seat Up": 22,
     "Brake": 44,
     "CPU Time": 46,
     "Camera Zoom In": 81,

@@ -1,0 +1,785 @@
+[
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "720SEVO_GT3",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "911_RSR19",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "992GT3R-24",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "992S_PC",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "A424",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "AMRVALKYRIELMH",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0613292455673218,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0159989595413208,
+                "vert": 0.0
+            }
+        },
+        "name": "AMR_V_GT3_EVO",
+        "seatSettings": {
+            "horiz": 0.025673577561974525,
+            "pitch": 0.0,
+            "vert": 0.029344582930207253
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "AMV_GTE_LM",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "BMWMH",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "BMW_M4_GT3",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "C8R_GTE_2020",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "CADV",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "CCZ06GT3R24",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "F296GT3",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "F488GTE_LM",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "F499P",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0230802297592163,
+                "vert": 0.0
+            }
+        },
+        "name": "FMGT3",
+        "seatSettings": {
+            "horiz": 0.009987209923565388,
+            "pitch": 0.0,
+            "vert": 0.009318152442574501
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "HURACAN_GT3_EVO2",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "IFTIPO6",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "LEXUS_RCF_GT3",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "MAMGGT3EVO",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "ORECA_07",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "P963",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "P9X8",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "P9X8_2024",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "SC63",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "SGC007",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "TGR010",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    },
+    {
+        "mirrorSettings": {
+            "centre": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "left": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            },
+            "mirrorHorizontal": 0.0,
+            "mirrorVertical": 0.0,
+            "right": {
+                "horiz": 0.0,
+                "size": 1.0,
+                "vert": 0.0
+            }
+        },
+        "name": "VV680",
+        "seatSettings": {
+            "horiz": 0.0,
+            "pitch": 0.0,
+            "vert": 0.0
+        }
+    }
+]
